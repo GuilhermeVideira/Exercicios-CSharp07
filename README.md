@@ -1,4 +1,4 @@
-# Exercicios CSharp - Programação Orientada a Objetos <img  align="center" alt="C#" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+# Exercicios CSharp - Programação Orientada a Objetos <img  align="center" alt="C#" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
 
 💻 Este seguinte projeto é uma atividade sobre Programação Orientada a Objetos. 💻
 
